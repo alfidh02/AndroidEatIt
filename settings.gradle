@@ -1,0 +1,2 @@
+include ':app', ':fbutton-1.0.5'
+rootProject.name='AndroidEatIt'
